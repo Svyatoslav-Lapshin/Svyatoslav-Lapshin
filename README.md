@@ -19,6 +19,6 @@ Fullstack.Net Developer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Svyatoslav-Lapshin"><img src="https://github-readme-stats.vercel.app/api?username=Svyatoslav-Lapshin&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=64748b&icon_color=ffffff&bg_color=27272a&hide_border=true&show_icons=true" alt="Svyatoslav-Lapshin's GitHub stats" /></a>
+<a href="http://www.github.com/Svyatoslav-Lapshin"><img src="https://github-readme-stats.vercel.app/api?username=Svyatoslav-Lapshin&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=27272a&hide_border=true&show_icons=true" alt="Svyatoslav-Lapshin's GitHub stats" /></a>
 
-<a href="https://github.com/Svyatoslav-Lapshin" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Svyatoslav-Lapshin&langs_count=10&title_color=84cc16&text_color=64748b&icon_color=ffffff&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Svyatoslav-Lapshin" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Svyatoslav-Lapshin&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
