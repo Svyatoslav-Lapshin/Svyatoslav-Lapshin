@@ -149,13 +149,6 @@ A real-time auction platform currently under development, built with a layered a
 
 </div>
 
-<p align="center">
-  <sub>
-    The language card shows the languages used in public repositories and does not represent proficiency level.
-  </sub>
-</p>
-
-
 
 ---
 
