@@ -131,8 +131,6 @@ A real-time auction platform currently under development, built with a layered a
 
 ## 📊 GitHub Statistics
 
-## 📊 GitHub Statistics
-
 <div align="center">
 
   <img
@@ -149,10 +147,7 @@ A real-time auction platform currently under development, built with a layered a
 
 </div>
 
-
 ---
-
-
 <div align="center">
   <h2>
     Thanks for visiting my profile! 🚀
