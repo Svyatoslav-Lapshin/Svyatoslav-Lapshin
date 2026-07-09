@@ -151,27 +151,15 @@ alt="Most used languages"
 
 ---
 
-## 📫 Contact Me
 
 <div align="center">
+  <h2>Thanks for visiting my profile! 🚀</h2>
 
-<a href="mailto:slavalapshin17@gmail.com">
   <img
-    src="https://img.shields.io/badge/Email-slavalapshin17%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Send an email"
+    src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"
+    width="45"
+    alt="Waving hand"
   />
-</a>
-
-<a href="https://www.linkedin.com/in/svyatoslav-lapshin-81b442266/" target="_blank">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn profile"
-  />
-</a>
-
-<br />
-<br />
-
-Thanks for visiting my profile! 🚀
+</div>
 
 </div>
