@@ -153,13 +153,14 @@ alt="Most used languages"
 
 
 <div align="center">
-  <h2>Thanks for visiting my profile! 🚀</h2>
-
-  <img
-    src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"
-    width="45"
-    alt="Waving hand"
-  />
+  <h2>
+    Thanks for visiting my profile! 🚀
+    <img
+      src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"
+      width="32"
+      alt="Waving hand"
+    />
+  </h2>
 </div>
 
 </div>
