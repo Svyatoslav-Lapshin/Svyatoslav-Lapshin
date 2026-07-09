@@ -102,7 +102,7 @@ A fullstack platform connecting athletes with sponsors. Athletes can share their
 
 `ASP.NET Core` · `Entity Framework Core` · `React` · `Tailwind CSS` · `SQL Server` · `Docker` · `Kubernetes`
 
-[![Repository](https://img.shields.io/badge/Repository-View%20Code-181717?style=for-the-badge\&logo=github)](https://github.com/Svyatoslav-Lapshin/Athletiqa)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Svyatoslav-Lapshin/Athletiqa)
 
 
 ---
