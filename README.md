@@ -131,23 +131,31 @@ A real-time auction platform currently under development, built with a layered a
 
 ## 📊 GitHub Statistics
 
+## 📊 GitHub Statistics
+
 <div align="center">
 
-<img
-height="170"
-src="https://github-stats-extended.vercel.app/api?username=Svyatoslav-Lapshin&show_icons=true&theme=transparent&hide_border=true"
-alt="GitHub statistics"
-/>
+  <img
+    width="49%"
+    src="https://github-stats-extended.vercel.app/api?username=Svyatoslav-Lapshin&show_icons=true&theme=transparent&hide_border=true&hide_title=true"
+    alt="GitHub statistics"
+  />
 
-<img
-height="170"
-src="https://github-stats-extended.vercel.app/api/top-langs/?username=Svyatoslav-Lapshin&layout=compact&theme=transparent&hide_border=true"
-alt="Most used languages"
-/>
+  <img
+    width="41%"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Svyatoslav-Lapshin&layout=compact&theme=transparent&hide_border=true&hide_title=true&langs_count=6"
+    alt="Most used languages"
+  />
 
 </div>
 
-> The language card shows the languages used in public repositories and does not represent proficiency level.
+<p align="center">
+  <sub>
+    The language card shows the languages used in public repositories and does not represent proficiency level.
+  </sub>
+</p>
+
+
 
 ---
 
