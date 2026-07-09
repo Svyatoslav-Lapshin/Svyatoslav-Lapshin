@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi, I'm Svyatoslav 👋
+# Hi there 👋
 
 <img
 src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Fullstack+.NET+Developer;ASP.NET+Core+%7C+React+%7C+SQL;Building+modern+web+applications;Based+in+Stockholm"
-alt="Typing SVG"
+alt="Typing animation"
 />
 
 <p>
@@ -12,13 +12,17 @@ alt="Typing SVG"
 </p>
 
 <a href="mailto:slavalapshin17@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img
+    src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Send an email"
+  />
 </a>
-<a href="https://www.linkedin.com/in/svyatoslav-lapshin-81b442266">
-  <img src="https://img.shields.io/badge/LinkedIn-Svyatoslav%20Lapshin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://github.com/Svyatoslav-Lapshin">
-  <img src="https://img.shields.io/badge/GitHub-Svyatoslav--Lapshin-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+
+<a href="https://www.linkedin.com/in/svyatoslav-lapshin-81b442266/" target="_blank">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn profile"
+  />
 </a>
 
 </div>
@@ -32,7 +36,8 @@ alt="Typing SVG"
 * 🔭 Currently working on **fullstack web applications**
 * 🌱 Improving my skills in **ASP.NET Core, React, databases and cloud technologies**
 * 💡 Interested in **backend development, clean architecture and modern web development**
-* ✉️ Contact me at **[slavalapshin17@gmail.com](mailto:slavalapshin17@gmail.com)**
+* ✉️ Contact me at [slavalapshin17@gmail.com](mailto:slavalapshin17@gmail.com)
+* 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/svyatoslav-lapshin-81b442266/)
 
 ---
 
@@ -98,6 +103,7 @@ A fullstack platform connecting athletes with sponsors. Athletes can share their
 `ASP.NET Core` · `Entity Framework Core` · `React` · `Tailwind CSS` · `SQL Server` · `Docker` · `Kubernetes`
 
 [![Repository](https://img.shields.io/badge/Repository-View%20Code-181717?style=for-the-badge\&logo=github)](https://github.com/Svyatoslav-Lapshin/Athletiqa)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Open-2EA44F?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://athletiqa.cc.k3s.chas-lab.dev)
 
 ---
 
@@ -130,13 +136,13 @@ A real-time auction platform currently under development, built with a layered a
 <img
 height="170"
 src="https://github-stats-extended.vercel.app/api?username=Svyatoslav-Lapshin&show_icons=true&theme=transparent&hide_border=true"
-alt="Svyatoslav's GitHub statistics"
+alt="GitHub statistics"
 />
 
 <img
 height="170"
 src="https://github-stats-extended.vercel.app/api/top-langs/?username=Svyatoslav-Lapshin&layout=compact&theme=transparent&hide_border=true"
-alt="Svyatoslav's most used languages"
+alt="Most used languages"
 />
 
 </div>
@@ -145,20 +151,22 @@ alt="Svyatoslav's most used languages"
 
 ---
 
-## 📫 Connect With Me
+## 📫 Contact Me
 
 <div align="center">
 
 <a href="mailto:slavalapshin17@gmail.com">
-  <img src="https://img.shields.io/badge/Email-slavalapshin17%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img
+    src="https://img.shields.io/badge/Email-slavalapshin17%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Send an email"
+  />
 </a>
 
-<a href="https://www.linkedin.com/in/svyatoslav-lapshin-81b442266">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<a href="https://github.com/Svyatoslav-Lapshin">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<a href="https://www.linkedin.com/in/svyatoslav-lapshin-81b442266/" target="_blank">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn profile"
+  />
 </a>
 
 <br />
